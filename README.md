@@ -1,23 +1,24 @@
-# Smart Home Hub
+# Smart Home CLI
 
-A command-line Smart Home management application developed in Rust.
+A command-line application written in Rust for managing smart home devices.
 
 ## Features
 
-- Control smart lights
-- Manage door locks
-- Manage heaters
-- Central hub architecture
+- Device management
+- Data storage and retrieval
+- Command-line interface
+- Modular architecture
 
 ## Technologies
 
 - Rust
 - CLI Development
-- Modular Architecture
-
-## Learning Outcomes
-
-- Ownership and Borrowing
-- Structs and Enums
-- Module Organization
+- File Storage
 - Software Architecture
+
+## My Contributions
+
+- Implemented domain models and business logic
+- Developed storage functionality
+- Designed modular project structure
+- Created command-line interactions
